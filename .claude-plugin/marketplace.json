@@ -1,0 +1,14 @@
+{
+  "name": "game-programming-patterns",
+  "owner": {
+    "name": "Alexander Opalic"
+  },
+  "plugins": [
+    {
+      "name": "game-programming-patterns",
+      "source": "./",
+      "description": "Game architecture patterns from Robert Nystrom's book, as an agent skill"
+    }
+  ],
+  "description": "Game architecture patterns from Robert Nystrom's Game Programming Patterns, packaged as a Claude Code skill"
+}

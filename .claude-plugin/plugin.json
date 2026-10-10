@@ -1,0 +1,8 @@
+{
+  "name": "game-programming-patterns",
+  "version": "0.1.0",
+  "description": "Teaches Claude Code the 19 patterns from Robert Nystrom's Game Programming Patterns, with TypeScript sketches, so agents pick the right architecture when building games.",
+  "author": { "name": "Alexander Opalic" },
+  "license": "MIT",
+  "keywords": ["gamedev", "game-programming-patterns", "typescript", "architecture"]
+}
